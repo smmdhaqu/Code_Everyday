@@ -1,9 +1,7 @@
-# 🚨 Don't change the code below 👇
 age = input("What is your current age? ")
 sleep = input("How many hours do you sleep on average? ")
-# 🚨 Don't change the code above 👆
 
-#Write your code below this line 👇
+
 age_left = int(age)
 sleep_time = int(sleep)
 years_left = 90 -(age_left)
